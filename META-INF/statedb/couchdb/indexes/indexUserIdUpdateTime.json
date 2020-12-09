@@ -1,0 +1,1 @@
+{"index":{"fields":[{"user_id": "desc"},{"updated_time": "desc"}]},"ddoc":"indexUserIdUpdateTimeDoc", "name":"indexUserIdUpdateTime","type":"json"}
